@@ -1,0 +1,64 @@
+Poem 1 Title:  30. Li :: The Clinging, Fire
+Poem 2 Title:  62. Hsiao Kuo :: Preponderance of the Small
+Poem 3 Title:  44. Kou :: Coming to Meet
+Poem 4 Title:  29. K'an :: The Abysmal (Water)
+Poem 5 Title:  33. Tun :: Retreat
+Poem 6 Title:  18. Ku : Work on What Has Been Spoiled [Decay]
+Poem 7 Title:  51. Chen :: The Arousing (Shock, Thunder)
+Poem 8 Title:  48. Ching :: The Well
+Poem 9 Title:  49. Ko :: Revolution (Molting)
+Poem 10 Title:  37. Chia Jen :: The Family [The Clan]
+Poem 11 Title:  22. Pi :: Grace
+Poem 12 Title:  2. K'un :: The Receptive
+Poem 13 Title:  26. Ta Ch'u :: The Taming Power of the Great
+Poem 14 Title:  32. Heng :: Duration
+Poem 15 Title:  59. Huan :: Dispersion [Dissolution]
+Poem 16 Title:  15. Ch'ien :: Modesty
+Poem 17 Title:  36. Ming I :: Darkening of the Light
+Poem 18 Title:  1. Ch'ien :: The Creative
+Poem 19 Title:  34. Ta Chuang :: The Power of the Great
+Poem 20 Title:  38. K'uei :: Opposition
+Poem 21 Title:  63. Chi Chi :: After Completion
+Poem 22 Title:  28. Ta Kuo :: Preponderance of the Great
+Poem 23 Title:  61. Chung Fu :: Inner Truth
+Poem 24 Title:  56. Lu :: The Wanderer
+Poem 25 Title:  35. Chin :: Progress
+Poem 26 Title:  25. Wu Wang :: Innocence (The Unexpected)
+Poem 27 Title:  6. Sung :: Conflict
+Poem 28 Title:  55. Feng :: Abundance [Fullness]
+Poem 29 Title:  54. Kuei Mei :: The Marrying Maiden
+Poem 30 Title:  11. Ta'i :: Peace
+Poem 31 Title:  58. Tui :: The Joyous, Lake
+Poem 32 Title:  20. Kuan :: Contemplation (View)
+Poem 33 Title:  41. Sun :: Decrease
+Poem 34 Title:  24. Fu :: Return (The Turning Point)
+Poem 35 Title:  13. T'ung Jen :: Fellowship with Men
+Poem 36 Title:  10. Lu :: Treading [Conduct]
+Poem 37 Title:  64. Wei Chi :: Before Completion
+Poem 38 Title:  53. Chien :: Development (Gradual Progress)
+Poem 39 Title:  17. Sui :: Following
+Poem 40 Title:  57. Sun :: The Gentle (The Penetrating, Wind)
+Poem 41 Title:  31. Hsien :: Influence (Wooing)
+Poem 42 Title:  45. Ts'ui :: Gathering Together [Massing]
+Poem 43 Title:  9. Hsiao Ch'u :: The Taming Power of the Small
+Poem 44 Title:  14. Ta Yu :: Possession in Great Measure
+Poem 45 Title:  7. Shih :: The Army
+Poem 46 Title:  5. Hsu :: Waiting (Nourishment)
+Poem 47 Title:  46. Sheng :: Pushing Upward
+Poem 48 Title:  47. K'un :: Oppression (Exhaustion)
+Poem 49 Title:  21. Shih Ho :: Biting Through
+Poem 50 Title:  27. I :: The Corners of the Mouth (Providing Nourishment)
+Poem 51 Title:  52. Ken :: Keeping Still, Mountain
+Poem 52 Title:  50. Ting :: The Caldron
+Poem 53 Title:  19. Lin :: Approach
+Poem 54 Title:  23. Po :: Splitting Apart
+Poem 55 Title:  8. Pi :: Holding Together [Union]
+Poem 56 Title:  16.Yu :: Enthusiasm
+Poem 57 Title:  43. Kuai :: Break-through (Resoluteness)
+Poem 58 Title:  60. Chieh :: Limitation
+Poem 59 Title:  39. Chien :: Obstruction
+Poem 60 Title:  40. Hsieh :: Deliverance
+Poem 61 Title:  12. P'i :: Standstill [Stagnation]
+Poem 62 Title:  3. Chun :: Difficulty at the Beginning
+Poem 63 Title:  42. I :: Increase
+Poem 64 Title:  4. Meng :: Youthful Folly
